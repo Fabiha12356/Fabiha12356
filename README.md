@@ -18,8 +18,8 @@ Here are some ideas to get you started:
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 💻 Tech Stack:
-<h2 align="center">🚀 My Tech Stack</h2>
+
+<h2 align="center">🚀💻 My Tech Stack</h2>
 
 <div align="center">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
@@ -36,15 +36,5 @@ Here are some ideas to get you started:
 
 
 </div>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Fabiha12356&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Fabiha12356&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fabiha12356&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Fabiha12356&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
  <img align='center'  height="70" alt="Thanks" width="100%" src="https://raw.githubusercontent.com/aliaftabsheikh/aliaftabsheikh/c3862be6d86d0d9b863c38a1c4e24f76e79484b0/Thanks.svg"/>  
