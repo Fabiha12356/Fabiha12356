@@ -1,6 +1,9 @@
-# 💫 Hi 👋, I'm FABIHA M SOHAIL
-** I am Beginer  |  *WEB DEVELOPMENT* | SMIT Students || From Krachi**
 
+
+<h3 align="center">
+  <h1># 💫 Hi 👋, I'm FABIHA M SOHAIL </h1>
+ ** I am Beginer  ||  *WEB DEVELOPMENT* || SMIT Students || From Krachi**
+</h3>
 <!--
 **Fabiha12356/Fabiha12356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
