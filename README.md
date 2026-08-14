@@ -1,6 +1,6 @@
-
+<h1 align="center">
 # 👋 Hi, I'm Fabiha M. Sohail
-
+</h1>
 ### 💻 Aspiring MERN Stack Developer | Web Development Enthusiast
 
 <p align="center">
@@ -8,8 +8,9 @@
 </p>
 
 ---
-
+<h1 align="center">
 ## 👩‍💻 About Me
+</h1>
 
 I'm **Fabiha M. Sohail**, an aspiring **MERN Stack Developer** with a passion for web development and programming.
 
@@ -33,8 +34,9 @@ I enjoy building projects, experimenting with new technologies, and continuously
 </div>
 
 ---
-
+<h1 align="center">
 ## 🚀 Projects
+</h1>
 
 I have worked on several web development projects while learning and practicing JavaScript and frontend development.
 
@@ -50,17 +52,22 @@ Some of my projects include:
 More projects coming soon... 🚀
 
 ---
+<h1 align="center">
 ## 🔥 GitHub Streak
+</h1>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=fabiha12356&theme=tokyonight&hide_border=true" />
 </p>
-
+<h1 align="center">
 ## 🌱 My Development Journey
+</h1>
 <div align="center">
 <img width="626" height="404" alt="image" src="https://github.com/user-attachments/assets/dead366d-2415-4616-b86c-6613eb53ece0" />
 </div>
+<h1 align="center">
 ## 🤝 Connect With Me
+</h1>
 
 <p align="center">
   <a href="https://github.com/Fabiha12356">
