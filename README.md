@@ -21,45 +21,9 @@ I enjoy building projects, experimenting with new technologies, and continuously
 
 ---
 
-## 🛠️ Skills & Technologies
 
-### 🌐 Frontend
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
 
-### 🗄️ Backend / Database
-
-<p>
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
-
-### 🧰 Tools
-
-<p>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
-
----
-
-## 📚 Currently Learning
-
-🚀 **Supabase**
-
-I'm currently learning how to work with Supabase and practicing:
-
-* Database operations
-* CRUD operations
-* Fetching data
-* Inserting data
-* Updating data
-* Deleting data
-* Connecting JavaScript applications with databases
 
 ---
 
@@ -159,13 +123,6 @@ I'm learning, building, making mistakes, fixing them, and improving every day. �
 
 ---
 
-<p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
-</p>
 
 
 <h2 align="center">🚀💻 My Tech Stack</h2>
@@ -176,14 +133,10 @@ I'm learning, building, making mistakes, fixing them, and improving every day. �
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
-
 <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
-
 
 </div>
-
- <img align='center'  height="70" alt="Thanks" width="100%" src="https://raw.githubusercontent.com/aliaftabsheikh/aliaftabsheikh/c3862be6d86d0d9b863c38a1c4e24f76e79484b0/Thanks.svg"/>  
+ <img align='center'  height="70" alt="Thanks" width="100%" src="https://raw.githubusercontent.com/aliaftabsheikh/aliaftabsheikh/c3862be6d86d0d9b863c38a1c4e24f76e79484b0/Thanks.svg"/>
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
+</p>
