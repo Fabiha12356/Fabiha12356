@@ -47,14 +47,13 @@ I have worked on several web development projects while learning and practicing 
 
 Some of my projects include:
 
-* 🌦️ Weather App
-* ❌⭕ Tic Tac Toe Game
-* 📝 To-Do App
-* 🧮 Calculator
-* ❓ Quiz App
-* 📱 Post App
-* 🗄️ Supabase CRUD Project
-
+- 🌦️ [Weather App](https://github.com/Fabiha12356/Weather-App) — Weather app using API  
+- 🧠 [Quiz App](https://github.com/Fabiha12356/Quiz-App) — Interactive quiz with timer & score
+- 📝 [Post App](https://github.com/Fabiha12356/pOST--app) — Create and manage notes
+- 🧮 [Calculator](https://github.com/Fabiha12356/Calculator) — Functional JavaScript calculator
+- 💡 [Bulb On/Off](https://github.com/Fabiha12356/Bulb_project) — Interactive JavaScript DOM project
+- ❌⭕[Tic-Tac-Toe](https://github.com/Fabiha12356/Tic-Tac-Toe-GAME-) - Interactive Game !
+---
 More projects coming soon... 🚀
 
 ---
