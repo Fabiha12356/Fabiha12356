@@ -1,25 +1,171 @@
 
+# 👋 Hi, I'm Fabiha M. Sohail
 
-<h3 align="center">
-  <h1># 💫 Hi 👋, I'm FABIHA M SOHAIL </h1>
- ** I am Beginer  ||  *WEB DEVELOPMENT* || SMIT Students || From Krachi**
-</h3>
-<!--
-**Fabiha12356/Fabiha12356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Aspiring MERN Stack Developer | Web Development Enthusiast
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Aspiring+MERN+Stack+Developer;Building+and+Learning+Every+Day;Turning+Ideas+into+Web+Projects+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on HtMl $ CSs
-- 🌱 I’m currently learning JAVASCRPIT.
-- 💬 Ask me about my sKILLS
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/feed/) 
-<!-- Snake Game Repo View -->
+## 👩‍💻 About Me
 
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+I'm **Fabiha M. Sohail**, an aspiring **MERN Stack Developer** with a passion for web development and programming.
+
+I have completed my **Intermediate education and a diploma course**. I have also completed my learning journey with **HTML, CSS, JavaScript, and Bootstrap**, and I'm currently expanding my skills by learning **Supabase**.
+
+I enjoy building projects, experimenting with new technologies, and continuously improving my development skills.
+
+🎯 **My ultimate goal is to become a skilled MERN Stack Developer and build modern, useful, and real-world web applications.**
+
+---
+
+## 🛠️ Skills & Technologies
+
+### 🌐 Frontend
+
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+### 🗄️ Backend / Database
+
+<p>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</p>
+
+### 🧰 Tools
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+🚀 **Supabase**
+
+I'm currently learning how to work with Supabase and practicing:
+
+* Database operations
+* CRUD operations
+* Fetching data
+* Inserting data
+* Updating data
+* Deleting data
+* Connecting JavaScript applications with databases
+
+---
+
+## 🎯 My Goal
+
+```text
+HTML → CSS → JavaScript → Bootstrap → Supabase
+                                      ↓
+                              MERN Stack Developer
+                                      ↓
+                         Real-World Web Applications
+```
+
+My goal is to continue improving my development skills and eventually become a **professional MERN Stack Developer**.
+
+---
+
+## 🚀 Projects
+
+I have worked on several web development projects while learning and practicing JavaScript and frontend development.
+
+Some of my projects include:
+
+* 🌦️ Weather App
+* ❌⭕ Tic Tac Toe Game
+* 📝 To-Do App
+* 🧮 Calculator
+* ❓ Quiz App
+* 📱 Post App
+* 🗄️ Supabase CRUD Project
+
+More projects coming soon... 🚀
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🌱 My Development Journey
+
+```text
+🌐 HTML
+   ↓
+🎨 CSS
+   ↓
+⚡ JavaScript
+   ↓
+🧩 Bootstrap
+   ↓
+🗄️ Supabase
+   ↓
+⚛️ React
+   ↓
+🟢 Node.js
+   ↓
+🚂 Express.js
+   ↓
+🍃 MongoDB
+   ↓
+🚀 MERN Stack Developer
+```
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="YOUR_GITHUB_URL">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💭 Developer Mindset
+
+> **"Every expert was once a beginner."**
+
+I'm learning, building, making mistakes, fixing them, and improving every day. 🚀
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! ⭐
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
+</p>
 
 
 <h2 align="center">🚀💻 My Tech Stack</h2>
