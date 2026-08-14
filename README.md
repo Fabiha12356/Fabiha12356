@@ -22,23 +22,6 @@ I enjoy building projects, experimenting with new technologies, and continuously
 ---
 
 
-
-
-
----
-
-## 🎯 My Goal
-
-```text
-HTML → CSS → JavaScript → Bootstrap → Supabase
-                                      ↓
-                              MERN Stack Developer
-                                      ↓
-                         Real-World Web Applications
-```
-
-My goal is to continue improving my development skills and eventually become a **professional MERN Stack Developer**.
-
 ---
 
 ## 🚀 Projects
@@ -57,48 +40,15 @@ Some of my projects include:
 More projects coming soon... 🚀
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
----
-
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=fabiha12356&theme=tokyonight&hide_border=true" />
 </p>
-
----
 
 ## 🌱 My Development Journey
 
-```text
-🌐 HTML
-   ↓
-🎨 CSS
-   ↓
-⚡ JavaScript
-   ↓
-🧩 Bootstrap
-   ↓
-🗄️ Supabase
-   ↓
-⚛️ React
-   ↓
-🟢 Node.js
-   ↓
-🚂 Express.js
-   ↓
-🍃 MongoDB
-   ↓
-🚀 MERN Stack Developer
-```
-
+<img width="626" height="404" alt="image" src="https://github.com/user-attachments/assets/dead366d-2415-4616-b86c-6613eb53ece0" />
 ---
 
 ## 🤝 Connect With Me
