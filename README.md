@@ -4,20 +4,25 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Aspiring+MERN+Stack+Developer;Building+and+Learning+Every+Day;Turning+Ideas+into+Web+Projects+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
----
 <h1 align="center">
  👩‍💻 About Me
 </h1>
-
-I'm **Fabiha M. Sohail**, an aspiring **MERN Stack Developer** with a passion for web development and programming.
-
-I have completed my **Intermediate education and a diploma course**. I have also completed my learning journey with **HTML, CSS, JavaScript, and Bootstrap**, and I'm currently expanding my skills by learning **Supabase**.
-
-I enjoy building projects, experimenting with new technologies, and continuously improving my development skills.
-
-🎯 **My ultimate goal is to become a skilled MERN Stack Developer and build modern, useful, and real-world web applications.**
-
----
+💻 MERN Stack Developer
+<br>
+🌐 Building modern & responsive web applications
+<br>
+⚛️ Working with MongoDB, Express.js, React.js & Node.js
+<br>
+🎨 Skilled in HTML, CSS, JavaScript & Bootstrap
+<br>
+🔌 Experience with APIs & Supabase
+<br>
+🚀 Passionate about learning new technologies
+<br>
+🛠️ Improving my skills through real-world projects
+<br>
+📚 Continuously learning and growing as a Web Developer
+<br>
 <h2 align="center">🚀💻 My Tech Stack</h2>
 
 <div align="center">
