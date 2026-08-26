@@ -33,7 +33,9 @@ I enjoy building projects, experimenting with new technologies, and continuously
 🚀 Projects
 </h1>
 I have worked on several web development projects while learning and practicing JavaScript and frontend development.
+
 Some of my projects include:
+
 - 🌦️ [Weather App](https://github.com/Fabiha12356/Weather-App) — Weather app using API  
 - 🧠 [Quiz App](https://github.com/Fabiha12356/Quiz-App) — Interactive quiz with timer & score
 - 📝 [Post App](https://github.com/Fabiha12356/pOST--app) — Create and manage notes
