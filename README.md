@@ -27,18 +27,13 @@ I enjoy building projects, experimenting with new technologies, and continuously
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
-
 </div>
-
 ---
 <h1 align="center">
 🚀 Projects
 </h1>
-
 I have worked on several web development projects while learning and practicing JavaScript and frontend development.
-
 Some of my projects include:
-
 - 🌦️ [Weather App](https://github.com/Fabiha12356/Weather-App) — Weather app using API  
 - 🧠 [Quiz App](https://github.com/Fabiha12356/Quiz-App) — Interactive quiz with timer & score
 - 📝 [Post App](https://github.com/Fabiha12356/pOST--app) — Create and manage notes
@@ -52,39 +47,21 @@ More projects coming soon... 🚀
 <h1 align="center">
  🔥 GitHub Streak
 </h1>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=fabiha12356&theme=tokyonight&hide_border=true" />
 </p>
-<h1 align="center">
- 🌱 My Development Journey
-</h1>
-<div align="center">
-<img width="626" height="404" alt="image" src="https://github.com/user-attachments/assets/dead366d-2415-4616-b86c-6613eb53ece0" />
-</div>
 <h1 align="center">
  🤝 Connect With Me
 </h1>
 
 <p align="center">
-  <a href="https://github.com/Fabiha12356">
+  <a href="https://www.linkedin.com/in/fabiha-m-sohail-66675a384/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/fabiha-m-sohail-66675a384/">
+  <a href="https://github.com/Fabiha12356">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
----
- 💭 Developer Mindset
-
-> **"Every expert was once a beginner."**
-
-I'm learning, building, making mistakes, fixing them, and improving every day. 🚀
-
----
-
-
  <img align='center'  height="70" alt="Thanks" width="100%" src="https://raw.githubusercontent.com/aliaftabsheikh/aliaftabsheikh/c3862be6d86d0d9b863c38a1c4e24f76e79484b0/Thanks.svg"/>
  <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
